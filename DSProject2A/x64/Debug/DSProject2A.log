@@ -1,0 +1,5 @@
+﻿  InfixParser.cpp
+C:\Users\tyler\source\repos\DSProject2A\InfixParser.cpp(128,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  DSProject2A.vcxproj -> C:\Users\tyler\source\repos\DSProject2A\x64\Debug\DSProject2A.exe
